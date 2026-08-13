@@ -16,5 +16,8 @@ public class CarroTest01 {
         carro2.ano = 2005;
 
         carro1 = carro2;
+
+        carro1.imprime();
+        carro2.imprime();
     }
 }
