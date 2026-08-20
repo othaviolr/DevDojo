@@ -7,5 +7,5 @@ Esse repositório é o meu registro pessoal de estudos do curso de Java do DevDo
 - Códigos dos exercícios e exemplos do curso
 - Anotações e resumos nos comentários
 - Pequenos projetos e desafios que eu for fazendo ao longo do caminho
-- Macetes das linguagem
+- Macetes da linguagem java + IDE
 - Dicas
