@@ -9,3 +9,4 @@ Esse repositório é o meu registro pessoal de estudos do curso de Java do DevDo
 - Pequenos projetos e desafios que eu for fazendo ao longo do caminho
 - Macetes da linguagem java + IDE
 - Dicas
+- Etc
